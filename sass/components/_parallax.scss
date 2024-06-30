@@ -78,20 +78,20 @@ left: 0;
     left: 0;
 }
  .images-parallax__clouds{
-    background: url("/img/clouds.jpg") top / cover no-repeat;
+    background: url("../img/clouds.jpg") top / cover no-repeat;
     top: 0;
  
 }
 
 .images-parallax__mountains{
-    background: url("/img/mountains.png") top / cover no-repeat;
+    background: url("../img/mountains.png") top / cover no-repeat;
     z-index: 2;
     top: 15%;
 }
  
  
   .images-parallax__human{
-    background: url("/img/human.png") top / cover no-repeat;
+    background: url("../img/human.png") top / cover no-repeat;
     z-index: 3;
     top: 45%;
     @media(max-aspect-ratio:3/2){
